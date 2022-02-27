@@ -3,7 +3,16 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+  "assets/AssetManifest.json": "5f86eaf63c898ac5a9721a2bb20e72e5",
+"assets/assets/weather_icons/01n@4x.png": "ffd41dea48efc3f184d6d6cc261dcd6a",
+"assets/assets/weather_icons/02n@4x.png": "f3c1ab99a496c7c6e67d5d40a8db769c",
+"assets/assets/weather_icons/03n@4x.png": "ef465e8a4c80dee76856e7907f35c5b5",
+"assets/assets/weather_icons/04n@4x.png": "515aa358c970ea488eb5b611451dbeaf",
+"assets/assets/weather_icons/09n@4x.png": "80c432178901462475cd625e0d7d563f",
+"assets/assets/weather_icons/10n@4x.png": "3989abef11c368095e5a8217b498a8e0",
+"assets/assets/weather_icons/11n@4x.png": "a92dbfc50c7b31016bc2c6abb0c7eb48",
+"assets/assets/weather_icons/13n@4x.png": "7821697e2b81f30bd96abae9037d38db",
+"assets/assets/weather_icons/50n@4x.png": "8d766971979ca472cbe64505f8b4c3c9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
 "assets/NOTICES": "cce9ba230dfa0eb73dff57d0912ce613",
@@ -17,9 +26,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "7adb6c0e5107c6e7caaa49e00a7384f3",
-"/": "7adb6c0e5107c6e7caaa49e00a7384f3",
-"main.dart.js": "6382740ba7239c7a24475e496a0ad76a",
+"index.html": "7f35e27d6888dbd200155a8e0fae7e98",
+"/": "7f35e27d6888dbd200155a8e0fae7e98",
+"main.dart.js": "65541c5bf010b4a5959681cda8636f41",
 "manifest.json": "978a319cb83bc9e38126a18985859dc4",
 "version.json": "01de62baae0b94c8fe1c988f7510cd85"
 };
