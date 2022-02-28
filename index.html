@@ -14,7 +14,7 @@
     This is a placeholder for base href that will be replaced by the value of
     the `--base-href` argument provided to `flutter build`.
   -->
-  <base href="/https://muratrencber.github.io/weatherapp_flutter/">
+  <base href="https://muratrencber.github.io/weatherapp_flutter/">
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
@@ -37,7 +37,7 @@
        application. For more information, see:
        https://developers.google.com/web/fundamentals/primers/service-workers -->
   <script>
-    var serviceWorkerVersion = '1542958789';
+    var serviceWorkerVersion = '4202631256';
     var scriptLoaded = false;
     function loadMainDartJs() {
       if (scriptLoaded) {
@@ -99,6 +99,25 @@
       // Service workers not supported. Just drop the <script> tag.
       loadMainDartJs();
     }
+  </script>
+  <script>
+    document.addEventListener('wheel', function(e) {
+      e.ctrlKey && e.preventDefault();
+    }, {
+      passive: false,
+    });
+  </script>
+  <script>
+    window.addEventListener('keydown', function(e) {
+      if (event.metaKey || event.ctrlKey) {
+        switch (event.key) {
+          case '=':
+          case '-':
+            event.preventDefault();
+            break;
+        }
+      }
+    });
   </script>
 </body>
 </html>

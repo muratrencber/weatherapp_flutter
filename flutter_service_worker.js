@@ -3,10 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "fc5c42052a1af10227aa0fec69dc5872",
-"assets/assets/weather_icons/01d@4x.png": "bd5b7aa0761a4b80cebcda264178b3bc",
+  "assets/AssetManifest.json": "2a6251f62625e9a35be670d1b4c4b93f",
+"assets/assets/datas/countries_states.json": "0b2c8093aab9e3537192c028c31d11d8",
+"assets/assets/weather_icons/01d@4x.png": "09d40653ace2a8379b4cefd0cc09986d",
 "assets/assets/weather_icons/01n@4x.png": "ffd41dea48efc3f184d6d6cc261dcd6a",
-"assets/assets/weather_icons/02d@4x.png": "0fed544386cf2ed85acdc4103860477d",
+"assets/assets/weather_icons/02d@4x.png": "e0854d5e7f0c2ca56140690b989c5313",
 "assets/assets/weather_icons/02n@4x.png": "f3c1ab99a496c7c6e67d5d40a8db769c",
 "assets/assets/weather_icons/03d@4x.png": "ef465e8a4c80dee76856e7907f35c5b5",
 "assets/assets/weather_icons/03n@4x.png": "ef465e8a4c80dee76856e7907f35c5b5",
@@ -14,7 +15,7 @@ const RESOURCES = {
 "assets/assets/weather_icons/04n@4x.png": "515aa358c970ea488eb5b611451dbeaf",
 "assets/assets/weather_icons/09d@4x.png": "80c432178901462475cd625e0d7d563f",
 "assets/assets/weather_icons/09n@4x.png": "80c432178901462475cd625e0d7d563f",
-"assets/assets/weather_icons/10d@4x.png": "8cc3553bfc16a66cb8997a98e42c0a66",
+"assets/assets/weather_icons/10d@4x.png": "344b894451aee6aae4063d6dbe35fb40",
 "assets/assets/weather_icons/10n@4x.png": "3989abef11c368095e5a8217b498a8e0",
 "assets/assets/weather_icons/11d@4x.png": "d4f8869c9b6a948c4fced0cab25b8d2f",
 "assets/assets/weather_icons/11n@4x.png": "eb2da3913738d82f2d4998e834f30a2a",
@@ -35,9 +36,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "93aaa337f3a162108039b2b9693d458c",
-"/": "93aaa337f3a162108039b2b9693d458c",
-"main.dart.js": "1a9d64de7c988863cc0c26bea79bd1ef",
+"index.html": "6e147ca4b5cf551623364c2e2436178d",
+"/": "6e147ca4b5cf551623364c2e2436178d",
+"main.dart.js": "632b54b309fcda691f0f910b34e312d4",
 "manifest.json": "978a319cb83bc9e38126a18985859dc4",
 "version.json": "01de62baae0b94c8fe1c988f7510cd85"
 };
