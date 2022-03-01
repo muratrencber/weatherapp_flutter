@@ -5,7 +5,8 @@
 ### Gelecek Özellikler
 - Düzgün logo
 - Düzgün başlık
-- El ile arama
+- <s>El ile arama<s>
+- El ile aramada aradıktan sonra harita görünümü gösterimi
 - Harita koordionat verisinin Şehir, Ülke şekline dönüştürülmesi
 - Birden fazla konumu takip etme
 - Takip edilen konuma özel isim verme
