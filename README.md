@@ -9,7 +9,6 @@
 - Harita koordionat verisinin Şehir, Ülke şekline dönüştürülmesi
 - Birden fazla konumu takip etme
 - Takip edilen konuma özel isim verme
-- Liste performans optimizasyonu
 
 ### Bilinen Hatalar
-- Şu anlık yok
+- Farklı cihazlarda türlü font sorunları
