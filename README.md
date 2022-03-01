@@ -10,6 +10,7 @@
 - Harita koordionat verisinin Şehir, Ülke şekline dönüştürülmesi
 - Birden fazla konumu takip etme
 - Takip edilen konuma özel isim verme
+- Saatlerin ülkelere göre belirlenmesi
 
 ### Bilinen Hatalar
 - Farklı cihazlarda türlü font sorunları
