@@ -7,9 +7,9 @@
 - Düzgün başlık
 - El ile arama
 - El ile aramada aradıktan sonra harita görünümü gösterimi
-- Harita koordionat verisinin Şehir, Ülke şekline dönüştürülmesi</s>
+- Harita koordionat verisinin Şehir, Ülke şekline dönüştürülmesi
 - Birden fazla konumu takip etme
-- Takip edilen konuma özel isim verme
+- Takip edilen konuma özel isim verme</s>
 - Saatlerin ülkelere göre belirlenmesi
 
 ### Bilinen Hatalar
